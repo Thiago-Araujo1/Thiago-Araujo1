@@ -1,8 +1,8 @@
-                                      Olá!,fico feliz que tenha chegado até aqui,seja bem-vindo ! 👾 
+##                                                   Olá!,fico feliz que tenha chegado até aqui,seja bem-vindo ! 👾 
                                       
-<img align="left">
+<img align="center">
   <a href="https://github.com/Thiago-Araujo1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Araujo1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Araujo1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
 
