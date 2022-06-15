@@ -3,7 +3,7 @@
 <img align="left">
   <a href="https://github.com/Thiago-Araujo1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Araujo1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" height:"48" widht:"48" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Araujo1&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
 
   <div style="display: inline_block"><br>
